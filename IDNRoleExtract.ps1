@@ -1,6 +1,6 @@
 #### Author: Millie Perkins
 #### Date:15/1/2021
-#### This script uses the IDN api to find all role IDs and other info, then loops through that to export the json object of the role criteria and appends it to a file with the display name.
+#### This powershell script uses the IDN api to find all role IDs and other info, then loops through that to export the json object of the role criteria and appends it to a file with the display name.
 
 
 ##IdentityNow Organisation
